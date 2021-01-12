@@ -6,7 +6,7 @@ Projeto para ampliar o conhecimento em angular utilizando o material designer. C
 Desenolver um SPA para cadastro/exlusão/elitura/Alteração de um produto.
 
 ## Requisitos
-Servidor em Json Server e utilziar o material designer.
+Servidor em Json Server e material designer.
 
 ## Para o desenvolvimento foi utilizado:
 * Visual Studio Code;
